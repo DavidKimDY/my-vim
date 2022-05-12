@@ -86,3 +86,10 @@ au BufNewFile,BufRead *.js, *.html, *.css
 
 
 ```
+
+이후에 
+```
+cd ~/.vim/bundle/YouCompleteMe
+python install.py
+```
+해줘야 YouCompleteMe를 사용할 수 있다.
