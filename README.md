@@ -93,3 +93,5 @@ cd ~/.vim/bundle/YouCompleteMe
 python install.py
 ```
 해줘야 YouCompleteMe를 사용할 수 있다.
+그런데 이때 (macbook) xcode 가 설치되어 있지 않다면 python headers 를 찾지 못했다고 error를 띄운다. 
+따라서 xcode를 설치해줘야 한다.
